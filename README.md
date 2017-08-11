@@ -11,4 +11,4 @@ Developed for the OpenEd Hackweek Challenge, "Government of India DataScience Ch
 
 INSTRUCTIONS:
 
-Open the ipython notebook using jupyter notebooks or any similar software. Keep the location of the other files in the master folder as it is, otherwise, change the location of whatever file you want to move in the project source code itself.
+Open the ipython notebook using Jupyter, Enthought Canopy or any similar software. Keep the location of the other files in the master folder as it is, otherwise, change the location of whatever file you want to move in the project source code itself.
